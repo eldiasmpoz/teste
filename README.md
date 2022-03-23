@@ -1,2 +1,3 @@
-# teste
-Repo for general basic tests for deployment
+# Repositório para testes - Python & Javascript;
+### Repo for general basic tests for deployment
+
